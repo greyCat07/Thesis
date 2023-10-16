@@ -6,4 +6,4 @@ pip install pandas
 pip install --upgrade numpy scipy
 
 
-https://drive.google.com/file/d/1UipEoG--TzehI4_Z_vmGKooTp0q5aVNr/view?usp=drive_link
+https://drive.google.com/file/d/1kdbjrjVTS4vWRL9vQ8e9LvPGTdyqGRkU/view?usp=sharing
